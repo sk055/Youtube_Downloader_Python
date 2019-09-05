@@ -96,14 +96,6 @@ class Ui_YoutubeVideoDownloader(QtWidgets.QMainWindow):
         else:
             QtCore.QCoreApplication.instance().quit()
 
-
-
-
-
-
-
-
-
 if __name__ == "__main__":
     import sys
     app = QtWidgets.QApplication(sys.argv)
